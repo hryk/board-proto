@@ -1,0 +1,15 @@
+{
+  "name": "board-server",
+  "version": "0.0.1",
+  "description": "simple kafka websocket endpoint",
+  "main": "index.js",
+  "author": "Hiroyuki Nakamura <hi@1vq9.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "kafkajs": "^1.15.0",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.4"
+  }
+}
